@@ -1,0 +1,26 @@
+# Groww fund page corpus — five in-scope HDFC schemes
+schemes:
+  - scheme_id: large_cap
+    scheme_name: HDFC Large Cap Fund Direct Growth
+    url: https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth
+    source_type: groww_fund_page
+
+  - scheme_id: mid_cap
+    scheme_name: HDFC Mid Cap Fund Direct Growth
+    url: https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth
+    source_type: groww_fund_page
+
+  - scheme_id: small_cap
+    scheme_name: HDFC Small Cap Fund Direct Growth
+    url: https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth
+    source_type: groww_fund_page
+
+  - scheme_id: gold_fof
+    scheme_name: HDFC Gold ETF Fund of Fund Direct Plan Growth
+    url: https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth
+    source_type: groww_fund_page
+
+  - scheme_id: silver_fof
+    scheme_name: HDFC Silver ETF FoF Direct Growth
+    url: https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth
+    source_type: groww_fund_page
