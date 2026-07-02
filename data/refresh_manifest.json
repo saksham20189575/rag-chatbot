@@ -1,16 +1,15 @@
 {
-  "last_run_at": "2026-07-01T20:20:13+05:30",
-  "status": "fatal",
-  "trigger": "manual",
-  "schemes_checked": 0,
-  "schemes_updated": 0,
+  "last_run_at": "2026-07-02T13:43:58+05:30",
+  "status": "success",
+  "trigger": "github_actions",
+  "schemes_checked": 5,
+  "schemes_updated": 5,
   "schemes_skipped": 0,
-  "schemes_reindexed": 0,
-  "chunk_count": 0,
-  "duration_seconds": 4.8,
-  "errors": [
-    "Fetch failed: HTTP fetch failed for https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth after 3 attempts"
-  ],
-  "dry_run": true,
-  "last_success_at": null
+  "schemes_reindexed": 5,
+  "chunk_count": 35,
+  "duration_seconds": 10.8,
+  "errors": [],
+  "dry_run": false,
+  "workflow_run_id": "28575417692",
+  "last_success_at": "2026-07-02T13:43:58+05:30"
 }

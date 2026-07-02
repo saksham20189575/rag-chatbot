@@ -1,0 +1,14 @@
+{
+  "embedding_model": "BAAI/bge-small-en-v1.5",
+  "embedded_at": "2026-07-02T08:13:56+00:00",
+  "chunk_count": 35,
+  "collection_name": "hdfc_mf_groww_corpus",
+  "scheme_ids": [
+    "gold_fof",
+    "large_cap",
+    "mid_cap",
+    "silver_fof",
+    "small_cap"
+  ],
+  "chunks_fingerprint": "f181b06ddfac6a256beb2843bce87f097dc7cd7628f7bdc39d1c7a7e9bef8ccb"
+}
