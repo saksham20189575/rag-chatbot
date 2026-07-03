@@ -1,8 +1,23 @@
 {
-  "chunked_at": "2026-07-02T08:13:54+00:00",
+  "chunked_at": "2026-07-03T08:11:12+00:00",
   "total_chunks": 35,
   "scheme_count": 5,
   "schemes": [
+    {
+      "scheme_id": "gold_fof",
+      "chunk_count": 7,
+      "sections": [
+        "Benchmark",
+        "Exit load",
+        "Fund management",
+        "Investment objective",
+        "Key fund facts",
+        "Minimum investments",
+        "Stamp duty and tax"
+      ],
+      "token_min": 8,
+      "token_max": 96
+    },
     {
       "scheme_id": "large_cap",
       "chunk_count": 7,
@@ -34,36 +49,6 @@
       "token_max": 112
     },
     {
-      "scheme_id": "small_cap",
-      "chunk_count": 7,
-      "sections": [
-        "Benchmark",
-        "Exit load",
-        "Fund management",
-        "Investment objective",
-        "Key fund facts",
-        "Minimum investments",
-        "Stamp duty and tax"
-      ],
-      "token_min": 11,
-      "token_max": 112
-    },
-    {
-      "scheme_id": "gold_fof",
-      "chunk_count": 7,
-      "sections": [
-        "Benchmark",
-        "Exit load",
-        "Fund management",
-        "Investment objective",
-        "Key fund facts",
-        "Minimum investments",
-        "Stamp duty and tax"
-      ],
-      "token_min": 8,
-      "token_max": 96
-    },
-    {
       "scheme_id": "silver_fof",
       "chunk_count": 7,
       "sections": [
@@ -77,6 +62,21 @@
       ],
       "token_min": 8,
       "token_max": 96
+    },
+    {
+      "scheme_id": "small_cap",
+      "chunk_count": 7,
+      "sections": [
+        "Benchmark",
+        "Exit load",
+        "Fund management",
+        "Investment objective",
+        "Key fund facts",
+        "Minimum investments",
+        "Stamp duty and tax"
+      ],
+      "token_min": 11,
+      "token_max": 112
     }
   ]
 }
