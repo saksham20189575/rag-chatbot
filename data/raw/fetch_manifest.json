@@ -1,40 +1,40 @@
 {
   "gold_fof": {
-    "content_hash": "28f0a46b5eee4986e81b8947c03c7a382e8d28810d44c07a5b2c00d5ef0f07b6",
+    "content_hash": "9bce03efebccda55d1f3aff0e243b0050c5ab84b9d2b7237b315d6f8d16aac93",
     "fetch_method": "httpx",
-    "fetched_at": "2026-07-03T08:11:10+00:00",
+    "fetched_at": "2026-07-04T07:48:36+00:00",
     "scheme_id": "gold_fof",
     "scheme_name": "HDFC Gold ETF Fund of Fund Direct Plan Growth",
     "url": "https://groww.in/mutual-funds/hdfc-gold-etf-fund-of-fund-direct-plan-growth"
   },
   "large_cap": {
-    "content_hash": "cd4f702880afe8855e5f9a44b85d1f2a93797e245ed2e7d6c52ae95dfbc2c5f2",
+    "content_hash": "5f32adce65d4c541120457d8e07514c082b9259cbc46c905f9d1842d815759a8",
     "fetch_method": "httpx",
-    "fetched_at": "2026-07-03T08:11:06+00:00",
+    "fetched_at": "2026-07-04T07:48:32+00:00",
     "scheme_id": "large_cap",
     "scheme_name": "HDFC Large Cap Fund Direct Growth",
     "url": "https://groww.in/mutual-funds/hdfc-large-cap-fund-direct-growth"
   },
   "mid_cap": {
-    "content_hash": "e3ac238106542bc80d3d4dcf8f3b9b71c3428301ddb02d72a7755cf0ddb177e0",
+    "content_hash": "efc37c7de9b34bac0ebbe4b11e5d01f2499f1b16f68f3a83138ccfe481d77300",
     "fetch_method": "httpx",
-    "fetched_at": "2026-07-03T08:11:07+00:00",
+    "fetched_at": "2026-07-04T07:48:33+00:00",
     "scheme_id": "mid_cap",
     "scheme_name": "HDFC Mid Cap Fund Direct Growth",
     "url": "https://groww.in/mutual-funds/hdfc-mid-cap-fund-direct-growth"
   },
   "silver_fof": {
-    "content_hash": "8947d03f9bc91c4083bc0ca4ee2282a09dd2a8347963485053477fa9f6b66500",
+    "content_hash": "173b0bb0d90e385dde1144cf3e1b9be35d7dc7bd1270e0a5156074078ee71adf",
     "fetch_method": "httpx",
-    "fetched_at": "2026-07-03T08:11:12+00:00",
+    "fetched_at": "2026-07-04T07:48:37+00:00",
     "scheme_id": "silver_fof",
     "scheme_name": "HDFC Silver ETF FoF Direct Growth",
     "url": "https://groww.in/mutual-funds/hdfc-silver-etf-fof-direct-growth"
   },
   "small_cap": {
-    "content_hash": "811a7b2ae14ee5f191b80c93236504c79c336b2d732b34d04d913c428ab4d43e",
+    "content_hash": "938c921b7e5f5a75959211c83e387e35892a7983e88cca8d3636cd8a9e8470d6",
     "fetch_method": "httpx",
-    "fetched_at": "2026-07-03T08:11:09+00:00",
+    "fetched_at": "2026-07-04T07:48:35+00:00",
     "scheme_id": "small_cap",
     "scheme_name": "HDFC Small Cap Fund Direct Growth",
     "url": "https://groww.in/mutual-funds/hdfc-small-cap-fund-direct-growth"
