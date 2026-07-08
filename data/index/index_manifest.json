@@ -1,6 +1,6 @@
 {
   "embedding_model": "BAAI/bge-small-en-v1.5",
-  "embedded_at": "2026-07-07T08:25:27+00:00",
+  "embedded_at": "2026-07-08T07:31:32+00:00",
   "chunk_count": 35,
   "collection_name": "hdfc_mf_groww_corpus",
   "scheme_ids": [
@@ -10,5 +10,5 @@
     "silver_fof",
     "small_cap"
   ],
-  "chunks_fingerprint": "6b13bd9c20264fdab195f56541401f0abc7204d0d044c01ad27df39673fe6da2"
+  "chunks_fingerprint": "4a18b9868ce04b15f01d172cccb8e4766348ecb09c274dd943e635de28cc945c"
 }
