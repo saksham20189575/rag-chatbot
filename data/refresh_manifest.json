@@ -1,5 +1,5 @@
 {
-  "last_run_at": "2026-07-08T13:01:34+05:30",
+  "last_run_at": "2026-07-09T14:00:05+05:30",
   "status": "success",
   "trigger": "github_actions",
   "schemes_checked": 5,
@@ -7,9 +7,9 @@
   "schemes_skipped": 0,
   "schemes_reindexed": 5,
   "chunk_count": 35,
-  "duration_seconds": 9.9,
+  "duration_seconds": 10.8,
   "errors": [],
   "dry_run": false,
-  "workflow_run_id": "28925456775",
-  "last_success_at": "2026-07-08T13:01:34+05:30"
+  "workflow_run_id": "29004789788",
+  "last_success_at": "2026-07-09T14:00:05+05:30"
 }
