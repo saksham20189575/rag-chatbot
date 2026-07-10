@@ -1,5 +1,5 @@
 {
-  "parsed_at": "2026-07-09T08:30:02+00:00",
+  "parsed_at": "2026-07-10T08:25:17+00:00",
   "scheme_count": 1,
   "schemes": [
     {
@@ -7,8 +7,8 @@
       "scheme_name": "HDFC Silver ETF FoF Direct Growth",
       "file": "silver_fof.json",
       "text_block_count": 7,
-      "nav_date": "08-Jul-2026",
-      "fetched_at": "2026-07-09T08:30:01+00:00"
+      "nav_date": "09-Jul-2026",
+      "fetched_at": "2026-07-10T08:25:16+00:00"
     }
   ]
 }
